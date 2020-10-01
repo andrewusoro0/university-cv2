@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    position:sticky;
+}
+h5{
+    font-family: 'Amatic SC', cursive;
+}
+/*navbar background*/
+
+.navbar{
+    color: #fff;
+}
+.fa-graduation-cap {
+    color:#1d2d50;
+}
+.mr-3, .mx-3 {
+    padding-bottom: 150px;
+}
+.carousel-inner{
+    width: 100%;
+    height: 100%;
+}
+.carousel-caption h1,h3{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 10px #222;
+}
+.University {
+    /* margin-top: -43%;  */
+}
+.lead{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+/*cards*/
+ .card{ 
+    margin-top: 5%; 
+}
+.campus{
+    width: 100%;
+}
+.TuitionFees{
+    width: 100%;
+}
+.Fees{
+    width: 100%;
+}
+section{
+    background-color:#1d2d50;
+}
+.media{
+    color:#d5d5d5;
+    padding-left: 20px;
+}
+.people-know{
+    color: #fff;
+}
+.fa-youtube-square{
+    color:#ec0101;
+}
+.fa-university{
+    color: darkgray;
+}
+.fa-envelope{
+    color:#111d5e;
+}
+
+.fa-envelope,.fa-university,.fa-youtube-square{
+    font-size: 4em;
+    margin: 1rem;
+}
+/*FOOTER*/
+footer{
+    background-color: #1d2d50;
+    padding-top: 2rem;
+    color:#fff;
+}
+
+
